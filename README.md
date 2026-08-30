@@ -45,3 +45,6 @@ Run:
 
 python expense_categorizer.py# Smart-Expense-Categorizer
 Machine Learning project that categorizes financial transactions using TF-IDF and Logistic Regression
+## Project Results
+
+![Project Results](project_result.png)
